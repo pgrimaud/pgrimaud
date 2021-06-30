@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-    <a href="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" alt="Output picture"/>
-    </a>
+    <img src="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" alt="Output picture"/>
     Click <a href="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" target="_blank">here</a> to HD picture 👀
 </div>
 
