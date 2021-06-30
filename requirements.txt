@@ -1,4 +1,3 @@
 requests
-urllib
 opencv-python
 numpy
