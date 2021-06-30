@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/600px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg)
+<div align="center">
+    <a href="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg">
+        <img src="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" alt="Output picture"/>
+    </a>
+</div>
 
 Glad to see you :smile:.
 
