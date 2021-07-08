@@ -22,8 +22,8 @@ Thanks 🙏
 ## Results 🎉
 
 <div align="center">
-    <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg" alt="Original picture"/>
-    <img width="50%" src="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" alt="Output picture"/>
+    <img width="49%" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg" alt="Original picture"/>
+    <img width="49%" src="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" alt="Output picture"/>
 </div>
 
 ## Credits
