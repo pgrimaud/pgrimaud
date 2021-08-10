@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" alt="Output picture"/>
-    Click <a href="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" target="_blank">here</a> to HD picture 👀
+    Click <a href="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" target="_blank">here</a> for the HD picture 👀
 </div>
 
 ## I need you to participate in a cool experiment 😎
