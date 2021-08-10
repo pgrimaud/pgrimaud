@@ -24,6 +24,7 @@ Thanks 🙏
 <div align="center">
     <img width="49%" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg" alt="Original picture"/>
     <img width="49%" src="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.jpg" alt="Output picture"/>
+    <img width="98%" src="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.gif" alt="Output GIF"/>
 </div>
 
 ## Credits

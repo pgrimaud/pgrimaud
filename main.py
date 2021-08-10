@@ -1,6 +1,12 @@
+import cv2
+import glob
+import image2image as im
+import imageio
+import os
 import requests
 import urllib.request
-import image2image as im
+
+# install dependencies with pip3 (pip3 install -r requirements.txt)
 
 url = 'https://api.github.com/repos/pgrimaud/pgrimaud/stargazers'
 
@@ -30,13 +36,54 @@ def get_all_users():
 def download_avatars():
     counter = 1
     for avatar in get_all_users():
-        urllib.request.urlretrieve(avatar, './avatars/avt' + str(counter) + '.png')
+        urllib.request.urlretrieve(avatar, './tmp/avatars/avatar' + str(counter) + '.png')
+
+        filename = 'tmp/steps/step' + format_counter_for_sort(counter) + '.jpg'
+        filename_rsz = 'tmp/steps_resize/step' + format_counter_for_sort(counter) + '.jpg'
+
+        # create temporary mosaic for GIF
+        im.main(im.get_args(filename))
+
+        # resize picture
+        image = cv2.imread(filename, cv2.IMREAD_COLOR)
+        image = cv2.resize(image, (702, 318), 0, 0, cv2.IMREAD_COLOR)
+        cv2.imwrite(filename_rsz, image)
+
         counter += 1
 
 
+def format_counter_for_sort(number):
+    if number < 10:
+        return '00' + str(number)
+    elif number < 100:
+        return '0' + str(number)
+
+
+def generate_gif():
+    # fetch all steps
+    frames = []
+
+    images = glob.glob('{}/*.jpg'.format('tmp/steps_resize'))
+    images.sort()
+
+    for image in images:
+        frames.append(imageio.imread(image))
+
+    # generate GIF
+    imageio.mimsave('./data/output.gif', frames, format='GIF', duration=0.1)
+
+
+def clean_data():
+    for image in glob.glob('{}/*.jpg'.format('tmp/steps')) + glob.glob('{}/*.jpg'.format('tmp/steps_resize')) + glob.glob('{}/*.png'.format('tmp/avatars')):
+        os.remove(image)
+
 if __name__ == '__main__':
+    print('Clean data')
+    clean_data()
     print('Starting script')
     download_avatars()
     print('Avatars have been downloaded')
     im.main(im.get_args())
-    print('Output has been created')
+    print('Output picture has been created')
+    generate_gif()
+    print('Output GIF has been created')

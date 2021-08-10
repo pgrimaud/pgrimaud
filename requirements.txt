@@ -1,3 +1,4 @@
-requests
-opencv-python
+imageio
 numpy
+opencv-python
+requests
