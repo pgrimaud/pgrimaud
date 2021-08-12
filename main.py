@@ -81,12 +81,12 @@ def clean_data():
         os.remove(image)
 
 def write_statistics(statistics):
-    output = '#Statistics\n\n'
+    output = '# Statistics 📊\n\n'
     # write header
     output = output + '|Username|Times used|\n|--------|:--------:|\n'
 
     for usage in statistics:
-        output = output + '|@' + (usage[0]) + '|' + str(usage[1]) + '|\n'
+        output = output + '|[https://github.com/' + (usage[0]) + '](@' + (usage[0]) + ')|' + str(usage[1]) + '|\n'
 
     # write on README.md
     file = open('STATISTICS.md', 'w+')
