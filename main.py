@@ -83,10 +83,10 @@ def clean_data():
 def write_statistics(statistics):
     output = '# Statistics 📊\n\n'
     # write header
-    output = output + '|Username|Times used|\n|--------|:--------:|\n'
+    output = output + '|Rank|Username|Times used|\n:--------:|--------|:--------:|\n'
 
-    for usage in statistics:
-        output = output + '|[@' + (usage[0]) + '](https://github.com/' + (usage[0]) + ')|' + str(usage[1]) + '|\n'
+    for index, statistic in enumerate(statistics, start=1):
+        output = output + '|#' + str(index) + '|[@' + statistic[0] + '](https://github.com/' + statistic[0] + ')|' + str(statistic[1]) + '|\n'
 
     # write on README.md
     file = open('STATISTICS.md', 'w+')
