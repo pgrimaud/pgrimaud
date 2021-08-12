@@ -27,8 +27,10 @@ Thanks 🙏
     <img width="98%" src="https://raw.githubusercontent.com/pgrimaud/pgrimaud/master/data/output.gif" alt="Output GIF"/>
 </div>
 
-## Credits
+## Statistics
+You can check how many times each avatar was used on the image by clicking [here](https://github.com/pgrimaud/pgrimaud/blob/master/STATISTICS.md).
 
+## Credits
 
 Original picture: Michelangelo - Creation of Adam (cropped).jpg - <a href="https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg" target="_blank">Wikimedia</a>
 

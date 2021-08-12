@@ -25,7 +25,10 @@ def get_all_users():
     has_results = get_stargazers_from_api(url, page)
     while has_results:
         for result in has_results:
-            avatars.append(result['avatar_url'] + '&s=30')
+            avatars.append({
+                'avatar' : result['avatar_url'] + '&s=30',
+                'username' : result['login']
+            })
         print('Got page ' + str(page) + ' of stargazers')
         page += 1
         has_results = get_stargazers_from_api(url, page)
@@ -35,8 +38,8 @@ def get_all_users():
 
 def download_avatars():
     counter = 1
-    for avatar in get_all_users():
-        urllib.request.urlretrieve(avatar, './tmp/avatars/avatar' + str(counter) + '.png')
+    for user in get_all_users():
+        urllib.request.urlretrieve(user['avatar'], './tmp/avatars/' + str(user['username']) + '.png')
 
         filename = 'tmp/steps/step' + format_counter_for_sort(counter) + '.jpg'
         filename_rsz = 'tmp/steps_resize/step' + format_counter_for_sort(counter) + '.jpg'
@@ -77,13 +80,28 @@ def clean_data():
     for image in glob.glob('{}/*.jpg'.format('tmp/steps')) + glob.glob('{}/*.jpg'.format('tmp/steps_resize')) + glob.glob('{}/*.png'.format('tmp/avatars')):
         os.remove(image)
 
+def write_statistics(statistics):
+    output = '#Statistics\n\n'
+    # write header
+    output = output + '|Username|Times used|\n|--------|:--------:|\n'
+
+    for usage in statistics:
+        output = output + '|@' + (usage[0]) + '|' + str(usage[1]) + '|\n'
+
+    # write on README.md
+    file = open('STATISTICS.md', 'w+')
+    file.write(output)
+    file.close()
+
 if __name__ == '__main__':
     print('Clean data')
     clean_data()
     print('Starting script')
     download_avatars()
     print('Avatars have been downloaded')
-    im.main(im.get_args())
+    statistics = im.main(im.get_args())
     print('Output picture has been created')
+    write_statistics(statistics)
+    print('Statistics have been created')
     generate_gif()
     print('Output GIF has been created')
