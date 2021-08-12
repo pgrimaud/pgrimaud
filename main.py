@@ -86,7 +86,7 @@ def write_statistics(statistics):
     output = output + '|Username|Times used|\n|--------|:--------:|\n'
 
     for usage in statistics:
-        output = output + '|[https://github.com/' + (usage[0]) + '](@' + (usage[0]) + ')|' + str(usage[1]) + '|\n'
+        output = output + '|[@' + (usage[0]) + '](https://github.com/' + (usage[0]) + ')|' + str(usage[1]) + '|\n'
 
     # write on README.md
     file = open('STATISTICS.md', 'w+')
