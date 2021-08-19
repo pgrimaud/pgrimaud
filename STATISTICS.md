@@ -46,7 +46,7 @@
 |#42|[@na-ji](https://github.com/na-ji)|10|
 |#43|[@EdouardCourty](https://github.com/EdouardCourty)|10|
 |#44|[@Cyril-lamirand](https://github.com/Cyril-lamirand)|8|
-|#45|[@impsdc](https://github.com/impsdc)|8|
+|#45|[@DimitriBertin](https://github.com/DimitriBertin)|8|
 |#46|[@pgrimaud](https://github.com/pgrimaud)|7|
 |#47|[@benjilebon](https://github.com/benjilebon)|5|
 |#48|[@douggr](https://github.com/douggr)|5|
