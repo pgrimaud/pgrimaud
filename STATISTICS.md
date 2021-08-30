@@ -6,7 +6,7 @@
 |#2|[@tlenclos](https://github.com/tlenclos)|686|
 |#3|[@antoineandrieu](https://github.com/antoineandrieu)|620|
 |#4|[@Nispeon](https://github.com/Nispeon)|468|
-|#5|[@JimmyBloombug](https://github.com/JimmyBloombug)|377|
+|#5|[@K4n3dam4](https://github.com/K4n3dam4)|377|
 |#6|[@usernam3](https://github.com/usernam3)|347|
 |#7|[@alexislefebvre](https://github.com/alexislefebvre)|346|
 |#8|[@martin-damien](https://github.com/martin-damien)|336|
