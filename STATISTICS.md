@@ -20,7 +20,7 @@
 |#16|[@clement-hollander](https://github.com/clement-hollander)|72|
 |#17|[@Henry31](https://github.com/Henry31)|68|
 |#18|[@oellan](https://github.com/oellan)|64|
-|#19|[@pedrogrande](https://github.com/pedrogrande)|56|
+|#19|[@pedrogrande](https://github.com/pedrogrande)|55|
 |#20|[@LindaOjo](https://github.com/LindaOjo)|55|
 |#21|[@Wins9393](https://github.com/Wins9393)|48|
 |#22|[@JulienQHN](https://github.com/JulienQHN)|47|
@@ -40,7 +40,7 @@
 |#36|[@ccauet](https://github.com/ccauet)|23|
 |#37|[@TimPrd](https://github.com/TimPrd)|20|
 |#38|[@TessiaG](https://github.com/TessiaG)|20|
-|#39|[@annhan](https://github.com/annhan)|18|
+|#39|[@annhan](https://github.com/annhan)|19|
 |#40|[@shanurwt](https://github.com/shanurwt)|18|
 |#41|[@hixair](https://github.com/hixair)|17|
 |#42|[@timoogo](https://github.com/timoogo)|17|
