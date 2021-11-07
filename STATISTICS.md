@@ -19,7 +19,7 @@
 |#15|[@milkbottlelough](https://github.com/milkbottlelough)|76|
 |#16|[@clement-hollander](https://github.com/clement-hollander)|72|
 |#17|[@Henry31](https://github.com/Henry31)|68|
-|#18|[@oellan](https://github.com/oellan)|64|
+|#18|[@oellan](https://github.com/oellan)|65|
 |#19|[@pedrogrande](https://github.com/pedrogrande)|55|
 |#20|[@LindaOjo](https://github.com/LindaOjo)|55|
 |#21|[@Wins9393](https://github.com/Wins9393)|48|
@@ -64,10 +64,9 @@
 |#60|[@ValBl](https://github.com/ValBl)|3|
 |#61|[@floweb](https://github.com/floweb)|2|
 |#62|[@Nisshan](https://github.com/Nisshan)|2|
-|#63|[@nicolasbonnici](https://github.com/nicolasbonnici)|1|
-|#64|[@Alba0404](https://github.com/Alba0404)|1|
-|#65|[@DimitriBertin](https://github.com/DimitriBertin)|1|
-|#66|[@Cyril-lamirand](https://github.com/Cyril-lamirand)|1|
-|#67|[@matyo91](https://github.com/matyo91)|1|
-|#68|[@Kevin-H2R](https://github.com/Kevin-H2R)|1|
-|#69|[@AlexisCharp](https://github.com/AlexisCharp)|1|
+|#63|[@Alba0404](https://github.com/Alba0404)|1|
+|#64|[@DimitriBertin](https://github.com/DimitriBertin)|1|
+|#65|[@Cyril-lamirand](https://github.com/Cyril-lamirand)|1|
+|#66|[@matyo91](https://github.com/matyo91)|1|
+|#67|[@Kevin-H2R](https://github.com/Kevin-H2R)|1|
+|#68|[@AlexisCharp](https://github.com/AlexisCharp)|1|
