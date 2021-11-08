@@ -9,7 +9,7 @@
 
 <a href="https://github.com/Nispeon" target="_blank">@Nispeon</a> & I created a photo-mosaic with GitHub profile pictures and redraw a masterpiece with avatars as small parts. 🎨
 
-**But we will not add random people without permission, so if you're agreed to participate: you just have to star this repository. ✌️**
+**But we will not add random people without permission, so if you're agreed to participate: you just have to star [this repository](https://github.com/pgrimaud/pgrimaud). ✌️**
 
 Why do you need to star to participate? Because it will be very easy to retrieve all avatars with [GitHub API](https://developer.github.com/v3/activity/starring/#list-stargazers).
 
