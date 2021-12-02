@@ -9,7 +9,7 @@
 |#5|[@Redeltaz](https://github.com/Redeltaz)|364|
 |#6|[@martin-damien](https://github.com/martin-damien)|331|
 |#7|[@usernam3](https://github.com/usernam3)|326|
-|#8|[@enavarrocu](https://github.com/enavarrocu)|262|
+|#8|[@enavarrocu](https://github.com/enavarrocu)|261|
 |#9|[@Lockev](https://github.com/Lockev)|226|
 |#10|[@SASNOVACAT08](https://github.com/SASNOVACAT08)|209|
 |#11|[@douggr](https://github.com/douggr)|140|
@@ -72,3 +72,4 @@
 |#68|[@Cyril-lamirand](https://github.com/Cyril-lamirand)|1|
 |#69|[@Kevin-H2R](https://github.com/Kevin-H2R)|1|
 |#70|[@AlexisCharp](https://github.com/AlexisCharp)|1|
+|#71|[@CanarDev](https://github.com/CanarDev)|1|
