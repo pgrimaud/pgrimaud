@@ -41,8 +41,8 @@
 |#37|[@CanarDev](https://github.com/CanarDev)|23|
 |#38|[@Wins9393](https://github.com/Wins9393)|22|
 |#39|[@TessiaG](https://github.com/TessiaG)|20|
-|#40|[@hixair](https://github.com/hixair)|18|
-|#41|[@TimPrd](https://github.com/TimPrd)|18|
+|#40|[@TimPrd](https://github.com/TimPrd)|19|
+|#41|[@hixair](https://github.com/hixair)|18|
 |#42|[@guillaume-gomez](https://github.com/guillaume-gomez)|18|
 |#43|[@rosatuongvy](https://github.com/rosatuongvy)|17|
 |#44|[@annhan](https://github.com/annhan)|16|
@@ -54,7 +54,7 @@
 |#50|[@MathiasGilles](https://github.com/MathiasGilles)|9|
 |#51|[@tgerboui](https://github.com/tgerboui)|9|
 |#52|[@shanurwt](https://github.com/shanurwt)|9|
-|#53|[@AleDel](https://github.com/AleDel)|7|
+|#53|[@timoogo](https://github.com/timoogo)|7|
 |#54|[@renanbr](https://github.com/renanbr)|6|
 |#55|[@benjilebon](https://github.com/benjilebon)|5|
 |#56|[@PierrickP](https://github.com/PierrickP)|5|
@@ -75,7 +75,6 @@
 |#71|[@alexandrelam](https://github.com/alexandrelam)|1|
 |#72|[@Alba0404](https://github.com/Alba0404)|1|
 |#73|[@Cyril-lamirand](https://github.com/Cyril-lamirand)|1|
-|#74|[@timoogo](https://github.com/timoogo)|1|
-|#75|[@Nisshan](https://github.com/Nisshan)|1|
-|#76|[@Kevin-H2R](https://github.com/Kevin-H2R)|1|
-|#77|[@AlexisCharp](https://github.com/AlexisCharp)|1|
+|#74|[@Nisshan](https://github.com/Nisshan)|1|
+|#75|[@Kevin-H2R](https://github.com/Kevin-H2R)|1|
+|#76|[@AlexisCharp](https://github.com/AlexisCharp)|1|
