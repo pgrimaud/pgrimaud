@@ -26,7 +26,7 @@ def get_all_users():
     while has_results:
         for result in has_results:
             avatars.append({
-                'avatar' : result['avatar_url'] + '&s=30',
+                'avatar' : result['avatar_url'] + '&s=15',
                 'username' : result['login']
             })
         print('Got page ' + str(page) + ' of stargazers')

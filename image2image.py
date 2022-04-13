@@ -13,7 +13,7 @@ def get_args(output = "data/output.jpg"):
     parser.add_argument("--input", type=str, default="data/input.jpg", help="Path to input image")
     parser.add_argument("--output", type=str, default=output, help="Path to output image")
     parser.add_argument("--pool", type=str, default="tmp/avatars", help="Path to directory containing component images")
-    parser.add_argument("--stride", type=int, default=30, help="size of each component image")
+    parser.add_argument("--stride", type=int, default=15, help="size of each component image")
     args = parser.parse_args()
     return args
 
