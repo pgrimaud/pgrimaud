@@ -60,7 +60,8 @@ def format_counter_for_sort(number):
         return '00' + str(number)
     elif number < 100:
         return '0' + str(number)
-
+    else:
+        return str(number)
 
 def generate_gif():
     # fetch all steps
