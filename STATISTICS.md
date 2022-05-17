@@ -7,7 +7,7 @@
 |#3|[@CanberraMenthonnex](https://github.com/CanberraMenthonnex)|2143|
 |#4|[@alexislefebvre](https://github.com/alexislefebvre)|2084|
 |#5|[@usernam3](https://github.com/usernam3)|1257|
-|#6|[@clement-hollander](https://github.com/clement-hollander)|1121|
+|#6|[@clement-hollander](https://github.com/clement-hollander)|1122|
 |#7|[@Lockev](https://github.com/Lockev)|1111|
 |#8|[@enavarrocu](https://github.com/enavarrocu)|1093|
 |#9|[@Hammond95](https://github.com/Hammond95)|976|
@@ -80,7 +80,6 @@
 |#76|[@ClemOurs](https://github.com/ClemOurs)|2|
 |#77|[@alexandrelam](https://github.com/alexandrelam)|2|
 |#78|[@floweb](https://github.com/floweb)|2|
-|#79|[@AlexisCharp](https://github.com/AlexisCharp)|1|
-|#80|[@id0ntbyte](https://github.com/id0ntbyte)|1|
-|#81|[@Cyril-lamirand](https://github.com/Cyril-lamirand)|1|
-|#82|[@D3f1G41n3r](https://github.com/D3f1G41n3r)|1|
+|#79|[@id0ntbyte](https://github.com/id0ntbyte)|1|
+|#80|[@Cyril-lamirand](https://github.com/Cyril-lamirand)|1|
+|#81|[@D3f1G41n3r](https://github.com/D3f1G41n3r)|1|
