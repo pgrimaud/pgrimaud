@@ -47,7 +47,7 @@
 |#43|[@mininao](https://github.com/mininao)|86|
 |#44|[@rosatuongvy](https://github.com/rosatuongvy)|85|
 |#45|[@Neexly](https://github.com/Neexly)|84|
-|#46|[@daweedkob](https://github.com/daweedkob)|79|
+|#46|[@insolitum](https://github.com/insolitum)|79|
 |#47|[@AlexandreLascaux](https://github.com/AlexandreLascaux)|79|
 |#48|[@francescobianco](https://github.com/francescobianco)|78|
 |#49|[@TessiaG](https://github.com/TessiaG)|77|
