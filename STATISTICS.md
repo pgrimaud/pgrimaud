@@ -59,7 +59,7 @@
 |#55|[@mininao](https://github.com/mininao)|57|
 |#56|[@bytehead](https://github.com/bytehead)|53|
 |#57|[@safrem](https://github.com/safrem)|53|
-|#58|[@Lock-The-Door](https://github.com/Lock-The-Door)|50|
+|#58|[@Lock-The-Door](https://github.com/Lock-The-Door)|49|
 |#59|[@LindaOjo](https://github.com/LindaOjo)|47|
 |#60|[@hixair](https://github.com/hixair)|46|
 |#61|[@Diniboy1123](https://github.com/Diniboy1123)|46|
@@ -101,7 +101,8 @@
 |#97|[@Alba0404](https://github.com/Alba0404)|4|
 |#98|[@alexandrelam](https://github.com/alexandrelam)|2|
 |#99|[@EdouardCourty](https://github.com/EdouardCourty)|1|
-|#100|[@id0ntbyte](https://github.com/id0ntbyte)|1|
-|#101|[@SouchetJulie](https://github.com/SouchetJulie)|1|
-|#102|[@ValBl](https://github.com/ValBl)|1|
-|#103|[@D3f1G41n3r](https://github.com/D3f1G41n3r)|1|
+|#100|[@randompch](https://github.com/randompch)|1|
+|#101|[@id0ntbyte](https://github.com/id0ntbyte)|1|
+|#102|[@SouchetJulie](https://github.com/SouchetJulie)|1|
+|#103|[@ValBl](https://github.com/ValBl)|1|
+|#104|[@D3f1G41n3r](https://github.com/D3f1G41n3r)|1|
