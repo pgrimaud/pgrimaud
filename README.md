@@ -37,3 +37,7 @@ Original picture: Michelangelo - Creation of Adam (cropped).jpg - <a href="https
 Mosaic painting generator: <a href="https://github.com/uvipen/Photomosaic-generator" target="_blank">Photomosaic generator</a> by <a href="https://github.com/uvipen" target="_blank">@uvipen</a>
 
 Python main script: <a href="https://github.com/Nispeon" target="_blank">@Nispeon</a>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=pgrimaud&color=blue">
+</div>
