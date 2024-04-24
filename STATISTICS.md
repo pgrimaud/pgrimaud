@@ -97,7 +97,7 @@
 |#93|[@devglrd](https://github.com/devglrd)|12|
 |#94|[@gergel0304](https://github.com/gergel0304)|8|
 |#95|[@Cyril-lamirand](https://github.com/Cyril-lamirand)|8|
-|#96|[@shinework](https://github.com/shinework)|6|
+|#96|[@baptadn](https://github.com/baptadn)|6|
 |#97|[@sfcgeorge](https://github.com/sfcgeorge)|5|
 |#98|[@tgerboui](https://github.com/tgerboui)|5|
 |#99|[@Nisshan](https://github.com/Nisshan)|5|
