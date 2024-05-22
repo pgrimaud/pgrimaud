@@ -76,7 +76,7 @@
 |#72|[@na-ji](https://github.com/na-ji)|38|
 |#73|[@GuiguiWeb](https://github.com/GuiguiWeb)|35|
 |#74|[@Lainocs](https://github.com/Lainocs)|35|
-|#75|[@francescobianco](https://github.com/francescobianco)|33|
+|#75|[@francescobianco](https://github.com/francescobianco)|34|
 |#76|[@matdumond](https://github.com/matdumond)|33|
 |#77|[@mehdimahmoud](https://github.com/mehdimahmoud)|32|
 |#78|[@milkbottlelough](https://github.com/milkbottlelough)|30|
@@ -109,8 +109,7 @@
 |#105|[@EdouardCourty](https://github.com/EdouardCourty)|1|
 |#106|[@id0ntbyte](https://github.com/id0ntbyte)|1|
 |#107|[@alexandrehaas](https://github.com/alexandrehaas)|1|
-|#108|[@SouchetJulie](https://github.com/SouchetJulie)|1|
-|#109|[@deadbone](https://github.com/deadbone)|1|
-|#110|[@ValBl](https://github.com/ValBl)|1|
-|#111|[@InSecker](https://github.com/InSecker)|1|
-|#112|[@D3f1G41n3r](https://github.com/D3f1G41n3r)|1|
+|#108|[@deadbone](https://github.com/deadbone)|1|
+|#109|[@ValBl](https://github.com/ValBl)|1|
+|#110|[@InSecker](https://github.com/InSecker)|1|
+|#111|[@D3f1G41n3r](https://github.com/D3f1G41n3r)|1|
