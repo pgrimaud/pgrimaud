@@ -69,7 +69,7 @@
 |#65|[@hixair](https://github.com/hixair)|46|
 |#66|[@Diniboy1123](https://github.com/Diniboy1123)|46|
 |#67|[@JulienQNN](https://github.com/JulienQNN)|43|
-|#68|[@angulartist](https://github.com/angulartist)|41|
+|#68|[@goatcheesesaladwithpeanutoildressing](https://github.com/goatcheesesaladwithpeanutoildressing)|41|
 |#69|[@benjilebon](https://github.com/benjilebon)|41|
 |#70|[@francescobianco](https://github.com/francescobianco)|40|
 |#71|[@na-ji](https://github.com/na-ji)|38|
