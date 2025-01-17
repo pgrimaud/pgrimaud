@@ -49,7 +49,7 @@
 |#45|[@kucint](https://github.com/kucint)|82|
 |#46|[@yannisoo](https://github.com/yannisoo)|78|
 |#47|[@GabrielLCSC](https://github.com/GabrielLCSC)|77|
-|#48|[@Lainocs](https://github.com/Lainocs)|75|
+|#48|[@Lainocs](https://github.com/Lainocs)|76|
 |#49|[@Neexly](https://github.com/Neexly)|75|
 |#50|[@jonnydubowsky](https://github.com/jonnydubowsky)|67|
 |#51|[@annhan](https://github.com/annhan)|67|
@@ -63,8 +63,8 @@
 |#59|[@safrem](https://github.com/safrem)|53|
 |#60|[@Laiteux](https://github.com/Laiteux)|53|
 |#61|[@rudiger-empira](https://github.com/rudiger-empira)|53|
-|#62|[@RomainGuarinoni](https://github.com/RomainGuarinoni)|52|
-|#63|[@bytehead](https://github.com/bytehead)|52|
+|#62|[@bytehead](https://github.com/bytehead)|52|
+|#63|[@RomainGuarinoni](https://github.com/RomainGuarinoni)|51|
 |#64|[@Redeltaz](https://github.com/Redeltaz)|51|
 |#65|[@hixair](https://github.com/hixair)|46|
 |#66|[@Diniboy1123](https://github.com/Diniboy1123)|44|
@@ -81,7 +81,7 @@
 |#77|[@matyo91](https://github.com/matyo91)|29|
 |#78|[@antoineandrieu](https://github.com/antoineandrieu)|28|
 |#79|[@guillaume-gomez](https://github.com/guillaume-gomez)|27|
-|#80|[@PierrickP](https://github.com/PierrickP)|24|
+|#80|[@PierrickP](https://github.com/PierrickP)|25|
 |#81|[@deadbone](https://github.com/deadbone)|24|
 |#82|[@LindaOjo](https://github.com/LindaOjo)|21|
 |#83|[@Crysicia](https://github.com/Crysicia)|20|
@@ -90,8 +90,8 @@
 |#86|[@joaorceschini](https://github.com/joaorceschini)|17|
 |#87|[@Arxwel](https://github.com/Arxwel)|16|
 |#88|[@LeGoffMael](https://github.com/LeGoffMael)|13|
-|#89|[@gergel0304](https://github.com/gergel0304)|12|
-|#90|[@mhor](https://github.com/mhor)|12|
+|#89|[@mhor](https://github.com/mhor)|12|
+|#90|[@gergel0304](https://github.com/gergel0304)|11|
 |#91|[@duuusa](https://github.com/duuusa)|11|
 |#92|[@rdxshubham](https://github.com/rdxshubham)|9|
 |#93|[@randompch](https://github.com/randompch)|8|
@@ -109,8 +109,8 @@
 |#105|[@Alba0404](https://github.com/Alba0404)|2|
 |#106|[@alexandrehaas](https://github.com/alexandrehaas)|2|
 |#107|[@h-lavergne](https://github.com/h-lavergne)|2|
-|#108|[@id0ntbyte](https://github.com/id0ntbyte)|1|
-|#109|[@EdouardCourty](https://github.com/EdouardCourty)|1|
+|#108|[@EdouardCourty](https://github.com/EdouardCourty)|1|
+|#109|[@id0ntbyte](https://github.com/id0ntbyte)|1|
 |#110|[@Nisshan](https://github.com/Nisshan)|1|
 |#111|[@ValBl](https://github.com/ValBl)|1|
 |#112|[@InSecker](https://github.com/InSecker)|1|
