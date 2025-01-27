@@ -49,7 +49,7 @@
 |#45|[@kucint](https://github.com/kucint)|82|
 |#46|[@yannisoo](https://github.com/yannisoo)|78|
 |#47|[@GabrielLCSC](https://github.com/GabrielLCSC)|77|
-|#48|[@Lainocs](https://github.com/Lainocs)|76|
+|#48|[@Lainocs](https://github.com/Lainocs)|75|
 |#49|[@Neexly](https://github.com/Neexly)|75|
 |#50|[@jonnydubowsky](https://github.com/jonnydubowsky)|67|
 |#51|[@annhan](https://github.com/annhan)|67|
@@ -63,8 +63,8 @@
 |#59|[@safrem](https://github.com/safrem)|53|
 |#60|[@Laiteux](https://github.com/Laiteux)|53|
 |#61|[@rudiger-empira](https://github.com/rudiger-empira)|53|
-|#62|[@bytehead](https://github.com/bytehead)|52|
-|#63|[@RomainGuarinoni](https://github.com/RomainGuarinoni)|51|
+|#62|[@RomainGuarinoni](https://github.com/RomainGuarinoni)|52|
+|#63|[@bytehead](https://github.com/bytehead)|52|
 |#64|[@Redeltaz](https://github.com/Redeltaz)|51|
 |#65|[@hixair](https://github.com/hixair)|46|
 |#66|[@Diniboy1123](https://github.com/Diniboy1123)|44|
