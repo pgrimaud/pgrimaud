@@ -25,7 +25,7 @@
 |#21|[@LG666](https://github.com/LG666)|299|
 |#22|[@aroy314](https://github.com/aroy314)|262|
 |#23|[@AlexisSensei](https://github.com/AlexisSensei)|251|
-|#24|[@matdumond](https://github.com/matdumond)|239|
+|#24|[@matdumond](https://github.com/matdumond)|238|
 |#25|[@alexzerah](https://github.com/alexzerah)|233|
 |#26|[@douggr](https://github.com/douggr)|230|
 |#27|[@16arpi](https://github.com/16arpi)|223|
@@ -43,7 +43,7 @@
 |#39|[@Wins9393](https://github.com/Wins9393)|123|
 |#40|[@ccauet](https://github.com/ccauet)|123|
 |#41|[@FairFightKing](https://github.com/FairFightKing)|118|
-|#42|[@EthraDev](https://github.com/EthraDev)|115|
+|#42|[@EthraDev](https://github.com/EthraDev)|116|
 |#43|[@FedericaBrando](https://github.com/FedericaBrando)|114|
 |#44|[@DimitriBertin](https://github.com/DimitriBertin)|111|
 |#45|[@yannisoo](https://github.com/yannisoo)|93|
