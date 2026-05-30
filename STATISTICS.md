@@ -3,9 +3,9 @@
 |Rank|Username|Times used|
 :--------:|--------|:--------:|
 |#1|[@damienalexandre](https://github.com/damienalexandre)|4031|
-|#2|[@alexislefebvre](https://github.com/alexislefebvre)|1896|
-|#3|[@mednasserallah](https://github.com/mednasserallah)|1361|
-|#4|[@running-grass](https://github.com/running-grass)|1175|
+|#2|[@alexisLefebvre](https://github.com/alexisLefebvre)|1896|
+|#3|[@mednasserallah](https://github.com/mednasserallah)|1362|
+|#4|[@running-grass](https://github.com/running-grass)|1174|
 |#5|[@Lockev](https://github.com/Lockev)|1012|
 |#6|[@usernam3](https://github.com/usernam3)|919|
 |#7|[@clement-hollander](https://github.com/clement-hollander)|904|
@@ -15,7 +15,7 @@
 |#11|[@ColinEspinas](https://github.com/ColinEspinas)|723|
 |#12|[@omahs](https://github.com/omahs)|682|
 |#13|[@enavarrocu](https://github.com/enavarrocu)|541|
-|#14|[@CanberraMenthonnex](https://github.com/CanberraMenthonnex)|534|
+|#14|[@CanberraMenthonnex](https://github.com/CanberraMenthonnex)|532|
 |#15|[@tlenclos](https://github.com/tlenclos)|481|
 |#16|[@nilsbdev](https://github.com/nilsbdev)|397|
 |#17|[@afiniel](https://github.com/afiniel)|383|
@@ -27,7 +27,7 @@
 |#23|[@aroy314](https://github.com/aroy314)|262|
 |#24|[@AlexisSensei](https://github.com/AlexisSensei)|251|
 |#25|[@alexzerah](https://github.com/alexzerah)|233|
-|#26|[@douggr](https://github.com/douggr)|230|
+|#26|[@douggr](https://github.com/douggr)|231|
 |#27|[@16arpi](https://github.com/16arpi)|223|
 |#28|[@Hammond95](https://github.com/Hammond95)|205|
 |#29|[@matdumond](https://github.com/matdumond)|198|
@@ -35,13 +35,13 @@
 |#31|[@safrem](https://github.com/safrem)|180|
 |#32|[@Henry31](https://github.com/Henry31)|171|
 |#33|[@pedrogrande](https://github.com/pedrogrande)|164|
-|#34|[@oellan](https://github.com/oellan)|155|
+|#34|[@oellan](https://github.com/oellan)|156|
 |#35|[@Lycoon](https://github.com/Lycoon)|154|
 |#36|[@antoineandrieu](https://github.com/antoineandrieu)|149|
 |#37|[@loughlincodes](https://github.com/loughlincodes)|148|
 |#38|[@CDevJenny](https://github.com/CDevJenny)|134|
 |#39|[@Wins9393](https://github.com/Wins9393)|123|
-|#40|[@ccauet](https://github.com/ccauet)|123|
+|#40|[@ccauet](https://github.com/ccauet)|121|
 |#41|[@FairFightKing](https://github.com/FairFightKing)|118|
 |#42|[@alexandre-tobia](https://github.com/alexandre-tobia)|118|
 |#43|[@FedericaBrando](https://github.com/FedericaBrando)|114|
@@ -57,10 +57,10 @@
 |#53|[@shanurwt](https://github.com/shanurwt)|60|
 |#54|[@Laiteux](https://github.com/Laiteux)|55|
 |#55|[@SveRKeR92](https://github.com/SveRKeR92)|54|
-|#56|[@mickaelandrieu](https://github.com/mickaelandrieu)|51|
-|#57|[@Redeltaz](https://github.com/Redeltaz)|51|
-|#58|[@pgrimaud](https://github.com/pgrimaud)|49|
-|#59|[@TessiaG](https://github.com/TessiaG)|49|
+|#56|[@Redeltaz](https://github.com/Redeltaz)|52|
+|#57|[@mickaelandrieu](https://github.com/mickaelandrieu)|51|
+|#58|[@TessiaG](https://github.com/TessiaG)|50|
+|#59|[@pgrimaud](https://github.com/pgrimaud)|49|
 |#60|[@rudiger-empira](https://github.com/rudiger-empira)|47|
 |#61|[@GrandEmpereur](https://github.com/GrandEmpereur)|45|
 |#62|[@JulienQNN](https://github.com/JulienQNN)|44|
